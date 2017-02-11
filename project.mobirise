@@ -137,7 +137,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1329.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -154,7 +154,7 @@
           },
           "title": "PROFESJONALNE ROZWIĄZANIA DLA FIRM",
           "text": "Oferujemy profesjonalne rozwiązania telekomunikacyjne dla firm.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REKOMENDACJE OD FIRM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SKONTAKTUJ SIĘ Z NAMI!<br></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REKOMENDACJE OD FIRM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SKONTAKTUJ SIĘ Z NAMI!<br></a>"
         },
         {
           "_inherit": "features4",
@@ -358,7 +358,7 @@
             "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1325.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -451,7 +451,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adres</strong><br>Drawska 16e/32<br>02-202 Warszawa<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br>\nEmail: smartcomm@smartcomm.pl<br>Tel: +48 501 502 503<br>",
+          "text1": "<strong>Adres</strong><br>Drawska 16e/32<br>02-202 Warszawa<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br><br>\nEmail: smartcomm@smartcomm.pl<br>Tel: +48 501 502 503<br>",
           "text2": "<strong>Linki</strong><ul><li>Strona Główna</li><li>Nasze Zalety</li><li>Rekomendacje Firm</li><li>Kontakt</li><li>Polityka Cookies</li></ul>"
         },
         {
