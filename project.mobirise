@@ -451,7 +451,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adres</strong><br>Drawska 16e/32<br>02-202 Warszawa<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br><br>\nEmail: smartcomm@smartcomm.pl<br>Tel: +48 501 502 503<br>",
+          "text1": "<strong>Adres</strong><br>Drawska 16e/32<br>02-202 Warszawa<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br><br>\nEmail: <a href=\"mailto:smartcomm@smartcomm.pl\">smartcomm@smartcomm.pl</a><br>Tel: <a href=\"tel:+48501502503\">+48 501 502 503</a><br>",
           "text2": "<strong>Linki</strong><ul><li>Strona Główna</li><li>Nasze Zalety</li><li>Rekomendacje Firm</li><li>Kontakt</li><li>Polityka Cookies</li></ul>"
         },
         {
