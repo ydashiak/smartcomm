@@ -85,7 +85,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#faaf40!important"
             }
           },
           "_tags": [
@@ -103,7 +103,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": false
           },
           "logo": {
@@ -137,7 +137,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1325.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -154,7 +154,12 @@
           },
           "title": "PROFESJONALNE ROZWIĄZANIA DLA FIRM",
           "text": "Oferujemy profesjonalne rozwiązania telekomunikacyjne dla firm.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REKOMENDACJE OD FIRM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SKONTAKTUJ SIĘ Z NAMI!<br></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REKOMENDACJE OD FIRM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SKONTAKTUJ SIĘ Z NAMI!<br></a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "features4",
@@ -358,7 +363,7 @@
             "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1325.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
