@@ -15,7 +15,7 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       }
@@ -125,13 +125,18 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SMARTCOMM</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">STRONA GŁÓWNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">NASZE ZALETY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">REKOMENDACJE FIRM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-6\">KONTAKT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">NASZE ZALETY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">REKOMENDACJE FIRM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-6\">KONTAKT</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header1-a",
           "_params": {
             "parallax": true,
@@ -154,12 +159,7 @@
           },
           "title": "PROFESJONALNE ROZWIĄZANIA DLA FIRM",
           "text": "Oferujemy profesjonalne rozwiązania telekomunikacyjne dla firm.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REKOMENDACJE OD FIRM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SKONTAKTUJ SIĘ Z NAMI!<br></a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REKOMENDACJE OD FIRM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SKONTAKTUJ SIĘ Z NAMI!<br></a>"
         },
         {
           "_inherit": "features4",
@@ -207,7 +207,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "briefcase",
+              "name": "apple",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -441,22 +441,22 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Drawska 16",
-              "placeId": "ChIJ-YrZnKrMHkcRJMZM6LIxdiM",
+              "address": "Płochocińska 19",
+              "placeId": "ChIJbVWzDhTJHkcRGce6t8g6MZ8",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adres</strong><br>Drawska 16e/32<br>02-202 Warszawa<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br><br>\nEmail: <a href=\"mailto:smartcomm@smartcomm.pl\">smartcomm@smartcomm.pl</a><br>Tel: <a href=\"tel:+48501502503\">+48 501 502 503</a><br>",
+          "text1": "<strong>Adres</strong><br>Płochocińska 19/117<br>03-191 Warszawa<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br><br>\nEmail: <a href=\"mailto:smartcomm@smartcomm.pl\">smartcomm@smartcomm.pl</a><br>Tel: <a href=\"tel:+48501502503\">+48 501 502 503</a><br>",
           "text2": "<strong>Linki</strong><ul><li>Strona Główna</li><li>Nasze Zalety</li><li>Rekomendacje Firm</li><li>Kontakt</li><li>Polityka Cookies</li></ul>"
         },
         {
